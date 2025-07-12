@@ -1,0 +1,51 @@
+feedback_text,source,timestamp,manual_category,label_list
+The app crashes every time I try to upload a photo.,Twitter,24-05-2025 12:16,Bug,["Bug"]
+Too many ads make the experience frustrating.,Web Form,04-06-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+Navigation is confusing and not user-friendly.,Email,18-04-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+The login process takes forever.,Web Form,10-05-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+It keeps asking me to verify my email again and again.,Web Form,27-05-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+The dark mode doesn't apply to all screens.,Twitter,19-05-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+Payment failed but the amount was deducted.,Google Play,04-05-2025 12:16,Bug,["Bug"]
+Customer support is very slow to respond.,Google Play,11-05-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+The app freezes after the recent update.,Twitter,28-04-2025 12:16,Bug,["Bug"]
+Settings options are very limited and unclear.,Email,29-05-2025 12:16,Complaint,"[""Bug"", ""Complaint""]"
+"When I tap the notification, the app opens a blank page.",App Store,17-04-2025 12:16,Bug,
+The calendar doesn't save any new events.,Twitter,08-06-2025 12:16,Bug,
+Profile pictures are not loading.,Google Play,14-06-2025 12:16,Bug,
+Voice input doesn't work on Android.,Web Form,22-05-2025 12:16,Bug,
+I can’t delete old messages in the chat window.,Google Play,03-05-2025 12:16,Bug,
+App randomly logs me out.,Web Form,31-05-2025 12:16,Bug,
+Scrolling lags badly on the home feed.,Email,27-05-2025 12:16,Bug,
+Push notifications don’t appear even when enabled.,Twitter,21-05-2025 12:16,Bug,
+Fonts overlap on smaller screens.,Twitter,29-05-2025 12:16,Bug,
+The share button crashes the app.,App Store,23-05-2025 12:16,Bug,
+Please add biometric login support.,Web Form,09-06-2025 12:16,Complaint,
+It would be great to have a dark theme toggle.,Web Form,19-05-2025 12:16,Feature Request,
+Add a filter for unread messages.,Web Form,19-05-2025 12:16,Feature Request,
+Can we get a desktop version too?,Google Play,13-06-2025 12:16,Feature Request,
+Please include voice call functionality.,Web Form,15-06-2025 12:16,Feature Request,
+Option to customize the dashboard would be helpful.,App Store,10-05-2025 12:16,Feature Request,
+An offline mode would be really useful.,Twitter,21-04-2025 12:16,Feature Request,
+Need the ability to export data as CSV.,Web Form,19-04-2025 12:16,Feature Request,
+A widget for the home screen would be nice.,Google Play,06-06-2025 12:16,Feature Request,
+"Add multi-language support, especially Hindi and Spanish.",Twitter,03-05-2025 12:16,Feature Request,
+Amazing app! It’s super easy to use.,App Store,10-06-2025 12:16,Compliment,
+I love the recent UI update.,Email,28-04-2025 12:16,Compliment,
+Great customer service!,Email,14-05-2025 12:16,Compliment,
+Very intuitive and fast — keep it up!,App Store,08-06-2025 12:16,Compliment,
+Hands down the best productivity app I’ve tried.,Email,25-05-2025 12:16,Compliment,
+Love how clean and simple the design is.,Web Form,28-04-2025 12:16,Compliment,
+Thank you for listening to user feedback!,Web Form,29-05-2025 12:16,Compliment,
+"Reliable and efficient, well done!",Web Form,13-05-2025 12:16,Compliment,
+Works seamlessly across my devices.,Twitter,21-05-2025 12:16,Compliment,
+Beautiful interface and flawless performance.,Email,29-05-2025 12:16,Compliment,
+"Good app, but could use some polish.",Google Play,08-05-2025 12:16,General Feedback,
+Overall nice experience with a few hiccups.,Email,28-05-2025 12:16,General Feedback,
+Hope you keep improving the update frequency.,Web Form,26-04-2025 12:16,General Feedback,
+"Useful features, though there’s room for growth.",Twitter,11-06-2025 12:16,General Feedback,
+App works okay for basic needs.,Twitter,22-05-2025 12:16,General Feedback,
+Can’t wait to see future enhancements.,Web Form,14-05-2025 12:16,General Feedback,
+Decent app but has its flaws.,Email,08-06-2025 12:16,General Feedback,
+Thanks for building something this useful.,Web Form,27-05-2025 12:16,General Feedback,
+"Sometimes it’s slow, but mostly fine.",Web Form,03-05-2025 12:16,General Feedback,
+"App does what it says, nothing more nothing less.",Web Form,25-05-2025 12:16,General Feedback,

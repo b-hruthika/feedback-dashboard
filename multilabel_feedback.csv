@@ -1,0 +1,51 @@
+feedback_text,source,timestamp,manual_category,label_list,confidence_score,Bug,Complaint,Compliment,Feature Request,General Feedback
+The app crashes every time I try to upload a photo.,Twitter,24-05-2025 12:16,Bug,['Bug'],0.5660600783492644,1,0,0,0,0
+Too many ads make the experience frustrating.,Web Form,04-06-2025 12:16,Complaint,['Complaint'],0.2920370006842539,0,0,0,0,0
+Navigation is confusing and not user-friendly.,Email,18-04-2025 12:16,Complaint,['Complaint'],0.24379287365120217,0,0,0,0,0
+The login process takes forever.,Web Form,10-05-2025 12:16,Complaint,['Complaint'],0.3486978762771052,0,0,0,0,0
+It keeps asking me to verify my email again and again.,Web Form,27-05-2025 12:16,Complaint,['Complaint'],0.3157672614350199,0,0,0,0,0
+The dark mode doesn't apply to all screens.,Twitter,19-05-2025 12:16,Complaint,['Complaint'],0.27673123159329993,0,0,0,0,0
+Payment failed but the amount was deducted.,Google Play,04-05-2025 12:16,Bug,['Bug'],0.49939616695397704,0,0,0,0,0
+Customer support is very slow to respond.,Google Play,11-05-2025 12:16,Complaint,['Complaint'],0.2784662418300083,0,0,0,0,0
+The app freezes after the recent update.,Twitter,28-04-2025 12:16,Bug,['Bug'],0.5395288311505496,1,0,0,0,0
+Settings options are very limited and unclear.,Email,29-05-2025 12:16,Complaint,['Complaint'],0.3059676614371105,0,0,0,0,0
+"When I tap the notification, the app opens a blank page.",App Store,17-04-2025 12:16,Bug,['Bug'],0.5443879474526664,1,0,0,0,0
+The calendar doesn't save any new events.,Twitter,08-06-2025 12:16,Bug,['Bug'],0.47701113053643673,0,0,0,0,0
+Profile pictures are not loading.,Google Play,14-06-2025 12:16,Bug,['Bug'],0.5062522552550179,1,0,0,0,0
+Voice input doesn't work on Android.,Web Form,22-05-2025 12:16,Bug,['Bug'],0.4402646530419576,0,0,0,0,0
+I can’t delete old messages in the chat window.,Google Play,03-05-2025 12:16,Bug,['Bug'],0.454717819904379,0,0,0,0,0
+App randomly logs me out.,Web Form,31-05-2025 12:16,Bug,['Bug'],0.4848102547645111,0,0,0,0,0
+Scrolling lags badly on the home feed.,Email,27-05-2025 12:16,Bug,['Bug'],0.3819226696923906,0,0,0,0,0
+Push notifications don’t appear even when enabled.,Twitter,21-05-2025 12:16,Bug,['Bug'],0.4770034895630347,0,0,0,0,0
+Fonts overlap on smaller screens.,Twitter,29-05-2025 12:16,Bug,['Bug'],0.39472759228963256,0,0,0,0,0
+The share button crashes the app.,App Store,23-05-2025 12:16,Bug,['Bug'],0.5048601462919956,1,0,0,0,0
+Please add biometric login support.,Web Form,09-06-2025 12:16,Complaint,['Complaint'],0.29806639539490715,0,0,0,0,0
+It would be great to have a dark theme toggle.,Web Form,19-05-2025 12:16,Feature Request,['Feature Request'],0.3465494050132197,0,0,0,0,0
+Add a filter for unread messages.,Web Form,19-05-2025 12:16,Feature Request,['Feature Request'],0.31063373371297626,0,0,0,0,0
+Can we get a desktop version too?,Google Play,13-06-2025 12:16,Feature Request,['Feature Request'],0.3755703655667643,0,0,0,0,0
+Please include voice call functionality.,Web Form,15-06-2025 12:16,Feature Request,['Feature Request'],0.32927844717107474,0,0,0,0,0
+Option to customize the dashboard would be helpful.,App Store,10-05-2025 12:16,Feature Request,['Feature Request'],0.3610676640534171,0,0,0,0,0
+An offline mode would be really useful.,Twitter,21-04-2025 12:16,Feature Request,['Feature Request'],0.40463110768187516,0,0,0,0,0
+Need the ability to export data as CSV.,Web Form,19-04-2025 12:16,Feature Request,['Feature Request'],0.4102680684781539,0,0,0,0,0
+A widget for the home screen would be nice.,Google Play,06-06-2025 12:16,Feature Request,['Feature Request'],0.3983493058227434,0,0,0,0,0
+"Add multi-language support, especially Hindi and Spanish.",Twitter,03-05-2025 12:16,Feature Request,['Feature Request'],0.32596887488465504,0,0,0,0,0
+Amazing app! It’s super easy to use.,App Store,10-06-2025 12:16,Compliment,['Compliment'],0.41495928257496933,0,0,0,0,0
+I love the recent UI update.,Email,28-04-2025 12:16,Compliment,['Compliment'],0.32116143466324354,0,0,0,0,0
+Great customer service!,Email,14-05-2025 12:16,Compliment,['Compliment'],0.43100595230667293,0,0,0,0,0
+Very intuitive and fast — keep it up!,App Store,08-06-2025 12:16,Compliment,['Compliment'],0.4154320369427198,0,0,0,0,0
+Hands down the best productivity app I’ve tried.,Email,25-05-2025 12:16,Compliment,['Compliment'],0.3679731019035938,0,0,0,0,0
+Love how clean and simple the design is.,Web Form,28-04-2025 12:16,Compliment,['Compliment'],0.42021562953615227,0,0,0,0,0
+Thank you for listening to user feedback!,Web Form,29-05-2025 12:16,Compliment,['Compliment'],0.38796711710073617,0,0,0,0,0
+"Reliable and efficient, well done!",Web Form,13-05-2025 12:16,Compliment,['Compliment'],0.5218897224186819,0,0,1,0,0
+Works seamlessly across my devices.,Twitter,21-05-2025 12:16,Compliment,['Compliment'],0.2865004877208948,0,0,0,0,0
+Beautiful interface and flawless performance.,Email,29-05-2025 12:16,Compliment,['Compliment'],0.44237666766188094,0,0,0,0,0
+"Good app, but could use some polish.",Google Play,08-05-2025 12:16,General Feedback,['General Feedback'],0.37279742429422896,0,0,0,0,0
+Overall nice experience with a few hiccups.,Email,28-05-2025 12:16,General Feedback,['General Feedback'],0.31397342729153666,0,0,0,0,0
+Hope you keep improving the update frequency.,Web Form,26-04-2025 12:16,General Feedback,['General Feedback'],0.2809910538833752,0,0,0,0,0
+"Useful features, though there’s room for growth.",Twitter,11-06-2025 12:16,General Feedback,['General Feedback'],0.38818554995828775,0,0,0,0,0
+App works okay for basic needs.,Twitter,22-05-2025 12:16,General Feedback,['General Feedback'],0.352743724931845,0,0,0,0,0
+Can’t wait to see future enhancements.,Web Form,14-05-2025 12:16,General Feedback,['General Feedback'],0.3441872842137052,0,0,0,0,0
+Decent app but has its flaws.,Email,08-06-2025 12:16,General Feedback,['General Feedback'],0.33307738051632324,0,0,0,0,0
+Thanks for building something this useful.,Web Form,27-05-2025 12:16,General Feedback,['General Feedback'],0.30786059234786006,0,0,0,0,0
+"Sometimes it’s slow, but mostly fine.",Web Form,03-05-2025 12:16,General Feedback,['General Feedback'],0.330344466182614,0,0,0,0,0
+"App does what it says, nothing more nothing less.",Web Form,25-05-2025 12:16,General Feedback,['General Feedback'],0.33058204157925136,0,0,0,0,0

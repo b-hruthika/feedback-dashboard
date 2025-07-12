@@ -1,0 +1,51 @@
+feedback_text,source,timestamp,manual_category,predicted_category,sentiment,urgency_score
+The app crashes every time I try to upload a photo.,Twitter,2025-05-24 12:16:28,Bug,Complaint,NEGATIVE,0.8037088513374329
+Too many ads make the experience frustrating.,Web Form,2025-06-04 12:16:28,Complaint,Complaint,NEGATIVE,0.5681803226470947
+Navigation is confusing and not user-friendly.,Email,2025-04-18 12:16:28,Complaint,Complaint,NEGATIVE,0.6879308223724365
+The login process takes forever.,Web Form,2025-05-10 12:16:28,Complaint,Complaint,NEGATIVE,0.1432749330997467
+It keeps asking me to verify my email again and again.,Web Form,2025-05-27 12:16:28,Complaint,Complaint,NEGATIVE,0.7654731273651123
+The dark mode doesn't apply to all screens.,Twitter,2025-05-19 12:16:28,Complaint,Compliment,NEGATIVE,0.622958242893219
+Payment failed but the amount was deducted.,Google Play,2025-05-04 12:16:28,Bug,Complaint,NEGATIVE,0.7236338257789612
+Customer support is very slow to respond.,Google Play,2025-05-11 12:16:28,Complaint,Complaint,NEGATIVE,0.4231894016265869
+The app freezes after the recent update.,Twitter,2025-04-28 12:16:28,Bug,Complaint,NEGATIVE,0.7365203499794006
+Settings options are very limited and unclear.,Email,2025-05-29 12:16:28,Complaint,Complaint,NEGATIVE,0.49108782410621643
+"When I tap the notification, the app opens a blank page.",App Store,2025-04-17 12:16:28,Bug,Compliment,NEGATIVE,0.4452438950538635
+The calendar doesn't save any new events.,Twitter,2025-06-08 12:16:28,Bug,Compliment,NEGATIVE,0.16882751882076263
+Profile pictures are not loading.,Google Play,2025-06-14 12:16:28,Bug,Complaint,POSITIVE,0.738128662109375
+Voice input doesn't work on Android.,Web Form,2025-05-22 12:16:28,Bug,Bug,NEGATIVE,0.5015905499458313
+I can’t delete old messages in the chat window.,Google Play,2025-05-03 12:16:28,Bug,Bug,NEGATIVE,0.6238218545913696
+App randomly logs me out.,Web Form,2025-05-31 12:16:28,Bug,Complaint,POSITIVE,0.19733886420726776
+Scrolling lags badly on the home feed.,Email,2025-05-27 12:16:28,Bug,Complaint,NEGATIVE,0.652302622795105
+Push notifications don’t appear even when enabled.,Twitter,2025-05-21 12:16:28,Bug,Bug,NEGATIVE,0.47524964809417725
+Fonts overlap on smaller screens.,Twitter,2025-05-29 12:16:28,Bug,Compliment,NEGATIVE,0.5526392459869385
+The share button crashes the app.,App Store,2025-05-23 12:16:28,Bug,Bug,NEGATIVE,0.7059906721115112
+Please add biometric login support.,Web Form,2025-06-09 12:16:28,Complaint,Feature Request,POSITIVE,0.9616627097129822
+It would be great to have a dark theme toggle.,Web Form,2025-05-19 12:16:28,Feature Request,Feature Request,POSITIVE,0.7080902457237244
+Add a filter for unread messages.,Web Form,2025-05-19 12:16:28,Feature Request,Feature Request,NEGATIVE,0.2541019022464752
+Can we get a desktop version too?,Google Play,2025-06-13 12:16:28,Feature Request,Feature Request,NEGATIVE,0.8230841159820557
+Please include voice call functionality.,Web Form,2025-06-15 12:16:28,Feature Request,Feature Request,POSITIVE,0.8399240374565125
+Option to customize the dashboard would be helpful.,App Store,2025-05-10 12:16:28,Feature Request,Feature Request,NEGATIVE,0.8405507802963257
+An offline mode would be really useful.,Twitter,2025-04-21 12:16:28,Feature Request,Feature Request,NEGATIVE,0.7669054269790649
+Need the ability to export data as CSV.,Web Form,2025-04-19 12:16:28,Feature Request,Feature Request,NEGATIVE,0.9226137399673462
+A widget for the home screen would be nice.,Google Play,2025-06-06 12:16:28,Feature Request,Feature Request,NEGATIVE,0.7610746026039124
+"Add multi-language support, especially Hindi and Spanish.",Twitter,2025-05-03 12:16:28,Feature Request,Feature Request,POSITIVE,0.922437846660614
+Amazing app! It’s super easy to use.,App Store,2025-06-10 12:16:28,Compliment,Compliment,POSITIVE,0.5820783972740173
+I love the recent UI update.,Email,2025-04-28 12:16:28,Compliment,Compliment,POSITIVE,0.6207131147384644
+Great customer service!,Email,2025-05-14 12:16:28,Compliment,Compliment,POSITIVE,0.537785530090332
+Very intuitive and fast — keep it up!,App Store,2025-06-08 12:16:28,Compliment,Compliment,POSITIVE,0.9451927542686462
+Hands down the best productivity app I’ve tried.,Email,2025-05-25 12:16:28,Compliment,Compliment,POSITIVE,0.8105449080467224
+Love how clean and simple the design is.,Web Form,2025-04-28 12:16:28,Compliment,Compliment,POSITIVE,0.09766953438520432
+Thank you for listening to user feedback!,Web Form,2025-05-29 12:16:28,Compliment,Compliment,POSITIVE,0.5183089375495911
+"Reliable and efficient, well done!",Web Form,2025-05-13 12:16:28,Compliment,Compliment,POSITIVE,0.25891852378845215
+Works seamlessly across my devices.,Twitter,2025-05-21 12:16:28,Compliment,Compliment,POSITIVE,0.3516612946987152
+Beautiful interface and flawless performance.,Email,2025-05-29 12:16:28,Compliment,Compliment,POSITIVE,0.6861740350723267
+"Good app, but could use some polish.",Google Play,2025-05-08 12:16:28,General Feedback,General Feedback,POSITIVE,0.7180957794189453
+Overall nice experience with a few hiccups.,Email,2025-05-28 12:16:28,General Feedback,Compliment,POSITIVE,0.3767164647579193
+Hope you keep improving the update frequency.,Web Form,2025-04-26 12:16:28,General Feedback,Compliment,POSITIVE,0.5807880759239197
+"Useful features, though there’s room for growth.",Twitter,2025-06-11 12:16:28,General Feedback,Compliment,POSITIVE,0.4844501316547394
+App works okay for basic needs.,Twitter,2025-05-22 12:16:28,General Feedback,General Feedback,POSITIVE,0.006044518202543259
+Can’t wait to see future enhancements.,Web Form,2025-05-14 12:16:28,General Feedback,Compliment,POSITIVE,0.4741378426551819
+Decent app but has its flaws.,Email,2025-06-08 12:16:28,General Feedback,Complaint,NEGATIVE,0.4519406259059906
+Thanks for building something this useful.,Web Form,2025-05-27 12:16:28,General Feedback,Compliment,POSITIVE,0.6523364782333374
+"Sometimes it’s slow, but mostly fine.",Web Form,2025-05-03 12:16:28,General Feedback,Compliment,POSITIVE,0.03082805871963501
+"App does what it says, nothing more nothing less.",Web Form,2025-05-25 12:16:28,General Feedback,General Feedback,POSITIVE,0.36123260855674744

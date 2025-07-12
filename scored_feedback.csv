@@ -1,0 +1,51 @@
+feedback_text,manual_category,predicted_category,sentiment,urgency_score,confidence_score,timestamp,source
+The app crashes every time I try to upload a photo.,Bug,Complaint,NEGATIVE,0.8037088513374329,0.5660600783492644,24-05-2025 12:16,website
+Too many ads make the experience frustrating.,Complaint,Complaint,NEGATIVE,0.5681803226470947,0.2920370006842539,04-06-2025 12:16,App
+Navigation is confusing and not user-friendly.,Complaint,Complaint,NEGATIVE,0.6879308223724365,0.2437928736512021,18-04-2025 12:16,Email
+The login process takes forever.,Complaint,Complaint,NEGATIVE,0.1432749330997467,0.3486978762771052,10-05-2025 12:16,website
+It keeps asking me to verify my email again and again.,Complaint,Complaint,NEGATIVE,0.7654731273651123,0.3157672614350199,27-05-2025 12:16,Email
+The dark mode doesn't apply to all screens.,Complaint,Compliment,NEGATIVE,0.622958242893219,0.2767312315932999,19-05-2025 12:16,App
+Payment failed but the amount was deducted.,Bug,Complaint,NEGATIVE,0.7236338257789612,0.499396166953977,04-05-2025 12:16,Email
+Customer support is very slow to respond.,Complaint,Complaint,NEGATIVE,0.4231894016265869,0.2784662418300083,11-05-2025 12:16,Email
+The app freezes after the recent update.,Bug,Complaint,NEGATIVE,0.7365203499794006,0.5395288311505496,28-04-2025 12:16,website
+Settings options are very limited and unclear.,Complaint,Complaint,NEGATIVE,0.4910878241062164,0.3059676614371105,29-05-2025 12:16,Email
+"When I tap the notification, the app opens a blank page.",Bug,Compliment,NEGATIVE,0.4452438950538635,0.5443879474526664,17-04-2025 12:16,App
+The calendar doesn't save any new events.,Bug,Compliment,NEGATIVE,0.1688275188207626,0.4770111305364367,08-06-2025 12:16,App
+Profile pictures are not loading.,Bug,Complaint,POSITIVE,0.738128662109375,0.5062522552550179,14-06-2025 12:16,Email
+Voice input doesn't work on Android.,Bug,Bug,NEGATIVE,0.5015905499458313,0.4402646530419576,22-05-2025 12:16,website
+I can’t delete old messages in the chat window.,Bug,Bug,NEGATIVE,0.6238218545913696,0.454717819904379,03-05-2025 12:16,Email
+App randomly logs me out.,Bug,Complaint,POSITIVE,0.1973388642072677,0.4848102547645111,31-05-2025 12:16,website
+Scrolling lags badly on the home feed.,Bug,Complaint,NEGATIVE,0.652302622795105,0.3819226696923906,27-05-2025 12:16,Email
+Push notifications don’t appear even when enabled.,Bug,Bug,NEGATIVE,0.4752496480941772,0.4770034895630347,21-05-2025 12:16,App
+Fonts overlap on smaller screens.,Bug,Compliment,NEGATIVE,0.5526392459869385,0.3947275922896325,29-05-2025 12:16,Email
+The share button crashes the app.,Bug,Bug,NEGATIVE,0.7059906721115112,0.5048601462919956,23-05-2025 12:16,website
+Please add biometric login support.,Complaint,Feature Request,POSITIVE,0.9616627097129822,0.2980663953949071,09-06-2025 12:16,website
+It would be great to have a dark theme toggle.,Feature Request,Feature Request,POSITIVE,0.7080902457237244,0.3465494050132197,19-05-2025 12:16,Email
+Add a filter for unread messages.,Feature Request,Feature Request,NEGATIVE,0.2541019022464752,0.3106337337129762,19-05-2025 12:16,Email
+Can we get a desktop version too?,Feature Request,Feature Request,NEGATIVE,0.8230841159820557,0.3755703655667643,13-06-2025 12:16,App
+Please include voice call functionality.,Feature Request,Feature Request,POSITIVE,0.8399240374565125,0.3292784471710747,15-06-2025 12:16,App
+Option to customize the dashboard would be helpful.,Feature Request,Feature Request,NEGATIVE,0.8405507802963257,0.3610676640534171,10-05-2025 12:16,Email
+An offline mode would be really useful.,Feature Request,Feature Request,NEGATIVE,0.7669054269790649,0.4046311076818751,21-04-2025 12:16,website
+Need the ability to export data as CSV.,Feature Request,Feature Request,NEGATIVE,0.9226137399673462,0.4102680684781539,19-04-2025 12:16,website
+A widget for the home screen would be nice.,Feature Request,Feature Request,NEGATIVE,0.7610746026039124,0.3983493058227434,06-06-2025 12:16,Email
+"Add multi-language support, especially Hindi and Spanish.",Feature Request,Feature Request,POSITIVE,0.922437846660614,0.325968874884655,03-05-2025 12:16,App
+Amazing app! It’s super easy to use.,Compliment,Compliment,POSITIVE,0.5820783972740173,0.4149592825749693,10-06-2025 12:16,App
+I love the recent UI update.,Compliment,Compliment,POSITIVE,0.6207131147384644,0.3211614346632435,28-04-2025 12:16,App
+Great customer service!,Compliment,Compliment,POSITIVE,0.537785530090332,0.4310059523066729,14-05-2025 12:16,Email
+Very intuitive and fast — keep it up!,Compliment,Compliment,POSITIVE,0.9451927542686462,0.4154320369427198,08-06-2025 12:16,App
+Hands down the best productivity app I’ve tried.,Compliment,Compliment,POSITIVE,0.8105449080467224,0.3679731019035938,25-05-2025 12:16,App
+Love how clean and simple the design is.,Compliment,Compliment,POSITIVE,0.0976695343852043,0.4202156295361522,28-04-2025 12:16,website
+Thank you for listening to user feedback!,Compliment,Compliment,POSITIVE,0.5183089375495911,0.3879671171007361,29-05-2025 12:16,App
+"Reliable and efficient, well done!",Compliment,Compliment,POSITIVE,0.2589185237884521,0.5218897224186819,13-05-2025 12:16,website
+Works seamlessly across my devices.,Compliment,Compliment,POSITIVE,0.3516612946987152,0.2865004877208948,21-05-2025 12:16,App
+Beautiful interface and flawless performance.,Compliment,Compliment,POSITIVE,0.6861740350723267,0.4423766676618809,29-05-2025 12:16,website
+"Good app, but could use some polish.",General Feedback,General Feedback,POSITIVE,0.7180957794189453,0.3727974242942289,08-05-2025 12:16,Email
+Overall nice experience with a few hiccups.,General Feedback,Compliment,POSITIVE,0.3767164647579193,0.3139734272915366,28-05-2025 12:16,website
+Hope you keep improving the update frequency.,General Feedback,Compliment,POSITIVE,0.5807880759239197,0.2809910538833752,26-04-2025 12:16,App
+"Useful features, though there’s room for growth.",General Feedback,Compliment,POSITIVE,0.4844501316547394,0.3881855499582877,11-06-2025 12:16,Email
+App works okay for basic needs.,General Feedback,General Feedback,POSITIVE,0.0060445182025432,0.352743724931845,22-05-2025 12:16,Email
+Can’t wait to see future enhancements.,General Feedback,Compliment,POSITIVE,0.4741378426551819,0.3441872842137052,14-05-2025 12:16,website
+Decent app but has its flaws.,General Feedback,Complaint,NEGATIVE,0.4519406259059906,0.3330773805163232,08-06-2025 12:16,Email
+Thanks for building something this useful.,General Feedback,Compliment,POSITIVE,0.6523364782333374,0.30786059234786,27-05-2025 12:16,website
+"Sometimes it’s slow, but mostly fine.",General Feedback,Compliment,POSITIVE,0.030828058719635,0.330344466182614,03-05-2025 12:16,Email
+"App does what it says, nothing more nothing less.",General Feedback,General Feedback,POSITIVE,0.3612326085567474,0.3305820415792513,25-05-2025 12:16,website
